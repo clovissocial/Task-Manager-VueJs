@@ -1,0 +1,22 @@
+{
+    "tasks": [
+      {
+        "id": "1",
+        "text": "Book an appoinment",
+        "day": "June 15 2020",
+        "reminder": true
+      },
+      {
+        "id": 2,
+        "text": "Office meeting today",
+        "day":"Jan 15 2020",
+        "reminder": true
+      },
+      {
+        "id": 3,
+        "text": "Going for internship today",
+        "day": "June 14 2020",
+        "reminder": false
+      }
+    ]
+  }
